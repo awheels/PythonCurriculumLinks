@@ -1,0 +1,21 @@
+the Chinese lives in the red house
+the African-American keeps a dog
+the Brit drinks tea
+the green house is on the left of the white house
+the green house's owner drinks coffee
+the person who eats pizza owns a bird
+the owner of the yellow house eats salad
+the man living in the center house drinks milk
+the Native-American lives in the first house
+the man who eats steak lives next to the one who keeps cats
+the man who keeps horses lives next to the man who eats salad
+the owner who eats nothing drinks root beer
+the German eats peanuts
+the Native-American lives next to the blue house
+the man who eats steak has a neighbor who drinks water
+
+
+House colours: red, blue, white, green, yellow
+Food choices: steak, peanuts, salad, pizza, nothing
+Drink choices: water, coffee, root beer, milk, tea
+Pets: dog, bird, horse, cat
