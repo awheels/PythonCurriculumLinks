@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42cf5822-2056-4978-a94c-5589abb73b0b" name="Default" comment="committing initial project folder structure with collection is simple curriculum linked tasks">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sample Game 1/CLUES.txt" afterPath="$PROJECT_DIR$/Sample Game 1/CLUES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sample Game 1/READ_ME.txt" afterPath="$PROJECT_DIR$/Sample Game 1/READ_ME.txt" />
-    </list>
+    <list default="true" id="42cf5822-2056-4978-a94c-5589abb73b0b" name="Default" comment="committing initial project folder structure with collection is simple curriculum linked tasks" />
     <ignored path="test1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
